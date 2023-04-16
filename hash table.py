@@ -24,4 +24,3 @@ t['march 7'] = 420
 t['march 8'] = 280
 # print(t.arr)
 print(t['march 6'])
-# output:
