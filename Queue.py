@@ -29,6 +29,7 @@ class Queue:
             return self.queue[0]
     # delete the queue
     def delete(self):
+        
         self.queue = None
 
 # or list way to create a queue and dect
