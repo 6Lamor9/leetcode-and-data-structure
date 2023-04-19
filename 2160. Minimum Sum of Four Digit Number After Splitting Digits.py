@@ -26,6 +26,7 @@ def minimumSum(num):
         num1=astro[0]+astro[2]
         num2=astro[1]+astro[3]
         return (int(num1)+int(num2))
+        
 
 # test minimumSum
 testcase1 = 2932 # 52
